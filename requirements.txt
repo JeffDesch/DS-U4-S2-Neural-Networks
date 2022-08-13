@@ -1,0 +1,7 @@
+ipykernel
+tensorflow
+keras
+keras-tuner
+scikit-learn
+pandas
+seaborn
